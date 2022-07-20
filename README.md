@@ -1,14 +1,14 @@
 # DemoCRUD-JSP
 
-Esta aplicaci髇 es una peque馻 demostraci髇 de como consultar, registrar, modificar y eliminar datos de MySQL Server desde JSP.
+Esta aplicaci贸n es una peque帽a demostraci贸n de como consultar, registrar, modificar y eliminar datos de MySQL Server desde JSP.
 Esto con la ayuda de bootstrap5 y JQuery.
 
-##Columnas de la Tabla
+## Columnas de la Tabla
 - Id: Identificador de tipo entero (INTEGER);
 - NombreLibro: Nombre del libro (VARCHAR);
 - Autor: Autor del libro (VARCHAR);
-- AnioPublicacion: A駉 de publicaci髇 (VARCHAR);
-- fecha: Fecha de publicaci髇 (DATE);
+- AnioPublicacion: A帽o de publicaci贸n (VARCHAR);
+- fecha: Fecha de publicaci贸n (DATE);
 
 #### Nota:
-Considera que debes ejecutar el script de base de datos (scriptbd.sql) y cambiar la cadena de conexi髇 (ConnectionMySQL.java).
+Considera que debes ejecutar el script de base de datos (scriptbd.sql) y cambiar la cadena de conexi贸n (ConnectionMySQL.java).
